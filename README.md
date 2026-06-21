@@ -1,6 +1,6 @@
 # FUTURE_FS_01
 Personal Portfolio
-# Personal Portfolio Website | Future Interns Task 1
+# Personal Portfolio Website
 
 ## Project Overview
 This project is my submission for **Task 1** of the **Full Stack Web Development Internship** at :contentReference[oaicite:3]{index=3}.
