@@ -40,7 +40,7 @@ FUTURE_FS_01/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
+├── AMK_resume.pdf
 └── README.md
 ```
 
@@ -68,8 +68,6 @@ You can:
 - Double-click `index.html`
 OR
 - Use VS Code Live Server extension for better development experience
-
-(Optional) Install Live Server extension from VS Code marketplace.
 
 ---
 
@@ -109,17 +107,15 @@ Deployed the website and generated a live public URL.
 
 ## Live Demo
 Portfolio Website:
-```text
 https://wondrous-platypus-c31237.netlify.app/
-```
+
 
 ---
 
 ## GitHub Repository
 Repository Link:  
-```text
 https://github.com/AngelMK1405/FUTURE_FS_01
-```
+
 
 ---
 
